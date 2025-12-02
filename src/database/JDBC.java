@@ -7,7 +7,7 @@ public class JDBC {
     // MySQL Configurations
     private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/quiz_db";
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "Shraddha@12";
+    private static final String DB_PASSWORD = "your_password";
 
     /*
         question - the question to be inserted
